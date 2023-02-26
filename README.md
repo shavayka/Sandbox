@@ -1,4 +1,2 @@
 # Sandbox
-<div id="header" align="center">
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Ab78rwPCD1RYYdV5JI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoon-miami-duck-Ab78rwPCD1RYYdV5JI">via GIPHY</a></p>
-</div>
+<div class="tenor-gif-embed" data-postid="18273682" data-share-method="host" data-aspect-ratio="0.796875" data-width="100%"><a href="https://tenor.com/view/duck-waddling-gif-18273682">Duck Waddling Sticker</a>from <a href="https://tenor.com/search/duck-stickers">Duck Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
